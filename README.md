@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=dfederspiel&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+</p>
 <!--
 **dfederspiel/dfederspiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
